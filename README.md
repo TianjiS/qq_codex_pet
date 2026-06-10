@@ -30,7 +30,7 @@ Select your pet choices in Appearance / Pet
 Clone the repository:
 
 ```bash
-git clone https://github.com/TianjiS/qq-codex-pet.git
+git clone https://github.com/TianjiS/qq_codex_pet
 ```
 
 Navigate to the project folder:
